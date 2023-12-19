@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(228, 231, 230);      
+}
+
+.contenedor {
+    display: flex;
+}
+  
+.bloque1 {
+    flex: 1;
+    padding: 20px;
+}
+  
+.bloque2 {
+    flex: 1;
+    padding: 20px;
+}
